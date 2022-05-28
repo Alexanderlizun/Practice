@@ -1,0 +1,44 @@
+strong {
+    font-weight: 100;
+}
+h1 {
+color: rgb(50, 224, 195);
+padding-top: 30px;
+}
+h3 {
+    color: rgb(102, 156, 255);
+    padding-bottom: 30px;
+    font-weight: lighter;
+}
+body {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    width: 800px;
+    margin-top: 20px;
+}
+header {
+    background-color: rgb(59, 59, 59);
+    text-align: center;
+}
+.gachimuchi {
+    text-align: center;
+}
+a {
+    color: rgb(34, 34, 34);
+    text-decoration: none;
+    padding: 20px;
+}
+a:hover {
+    background-color: rgb(212, 212, 212);
+}
+footer {
+    background-color: rgb(59, 59, 59);
+    text-align: center;
+}
+.evaley {
+    color: white;
+    padding-top: 30px;
+}
